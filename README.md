@@ -5,5 +5,6 @@ Code created to monitor the power consumption of an industrial machine to predic
 Recieved #1 position for the same.
 
 
-![image](https://user-images.githubusercontent.com/69010782/193484455-68f337e1-2821-419e-b1ae-1dbb219f9fcc.png)
+![image](https://user-images.githubusercontent.com/69010782/193484628-7d8dc012-2acf-4915-8792-2d59517532a7.png)
+
 
